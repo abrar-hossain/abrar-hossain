@@ -1,4 +1,10 @@
-## Hi there 👋
+I am a **Software Engineer** with **4+ years** of professional experience. I specialize in in frontend development and backend API development. I am passionate about learning and developing applications using modern technologies.
+
+My current skillsets constitutes web application development using technologies like **Javascript**, **Typescript**, **React**, **NodeJS**, **Python**, **Go**, **AWS** and **Docker**.
+
+#### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-hossain&theme=swift&layout=compact)
 
 <!--
 **abrar-hossain/abrar-hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
