@@ -1,6 +1,11 @@
-I am a **Software Engineer** with **4+ years** of professional experience. I specialize in in frontend development and backend API development. I am passionate about learning and developing applications using modern technologies.
+### Hi there! 👋
 
-My current skillsets constitutes web application development using technologies like **Javascript**, **Typescript**, **React**, **NodeJS**, **Python**, **Go**, **AWS** and **Docker**.
+I am an aspiring `Software Engineer` with a strong foundation in programming and web development. While I may not have formal professional experience, I am passionate about building applications and continuously learning new technologies.
+
+- **Programming Languages**: Proficient in `C`, `C++`, `Go`, `JavaScript`, and `TypeScript`.
+- **Web Development**: Skilled in `HTML`, `CSS`, and `JavaScript`, with hands-on experience in creating dynamic web applications.
+- **Frontend Development**: Experienced in using `React` to build responsive and user-friendly interfaces.
+
 
 #### Stats
 
