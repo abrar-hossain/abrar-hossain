@@ -33,11 +33,6 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Dark Mode Only)
 
 ![snake gif dark](https://github.com/abrar-hossain/abrar-hossain/blob/output/github-snake-dark.svg?palette=github-dark)
-
----
-
-<!-- Optional coding GIF -->
-<!-- ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
