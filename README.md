@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Abrar Hossain
 
-🎓 Fresher Go Developer | Passionate about building efficient and scalable web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Fresher+Go+Developer;Go+Enthusiast+%F0%9F%90%B9;Always+learning+and+building+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abrar-hossain.abrar-hossain)
 
 ## 🚀 Tech Stack
 
@@ -35,7 +37,9 @@
 
 ![snake gif](https://github.com/abrar-hossain/abrar-hossain/blob/output/github-snake.svg)
 
+![snake gif dark](https://github.com/abrar-hossain/abrar-hossain/blob/output/github-snake-dark.svg?palette=github-dark)
+
 ---
 
-<!-- Optional GIF -->
+<!-- Optional coding GIF -->
 <!-- ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
