@@ -31,5 +31,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/abrar-hossain/abrar-hossain/blob/output/github-snake.svg)
+
+---
+
 <!-- Optional GIF -->
 <!-- ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
