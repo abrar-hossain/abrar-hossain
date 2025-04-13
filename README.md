@@ -35,8 +35,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/abrar-hossain/abrar-hossain/blob/output/github-snake.svg)
-
 ![snake gif dark](https://github.com/abrar-hossain/abrar-hossain/blob/output/github-snake-dark.svg?palette=github-dark)
 
 ---
