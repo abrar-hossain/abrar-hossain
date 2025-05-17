@@ -11,13 +11,6 @@
 
 ---
 
-## 📫 Connect with me
-
-- 📧 Email: [abrarmashuk@gmail.com](mailto:abrarmashuk@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abrarhossainn](https://www.linkedin.com/in/abrarhossainn/)
-
----
-
 ## 📊 GitHub Stats
 
 ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-hossain&show_icons=true&theme=radical)
