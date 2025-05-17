@@ -11,12 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-hossain&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-hossain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 🐍 Contribution Snake (Dark Mode Only)
